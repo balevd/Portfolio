@@ -37,6 +37,12 @@ table {
     margin-right: auto;
 }
 
+
+td {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .portfolio {
     text-align: center;
     background-color: #FAD9A1;
